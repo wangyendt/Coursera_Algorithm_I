@@ -1,5 +1,3 @@
-package union_find;
-
 /******************************************************************************
  *  Compilation:  javac PercolationVisualizer.java
  *  Execution:    java PercolationVisualizer input.txt
